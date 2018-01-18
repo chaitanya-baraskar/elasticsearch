@@ -1,0 +1,8 @@
+
+BulkUpload/.classpath
+BulkUpload/.project
+BulkUpload/.settings/org.eclipse.jdt.core.prefs
+*.prefs
+*.jar
+*.properties
+*.lst
