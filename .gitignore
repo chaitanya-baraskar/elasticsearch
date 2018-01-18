@@ -6,3 +6,7 @@ BulkUpload/.settings/org.eclipse.jdt.core.prefs
 *.jar
 *.properties
 *.lst
+ElasticSearch/.classpath
+ElasticSearch/.project
+*.class
+ElasticSearch/target/classes/log4j.xml
